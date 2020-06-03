@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Азенков](https://up.htmlacademy.ru/javascript/20/user/877237).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Корякин](https://up.htmlacademy.ru/javascript/20/user/368101).
 
 ---
 
